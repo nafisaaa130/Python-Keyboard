@@ -1,2 +1,2 @@
 # Python-Keyboard
-Suggestive Keyboard (including text to speech)
+The text-to-speech function of a suggestive keyboard
